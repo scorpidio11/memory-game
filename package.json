@@ -1,12 +1,12 @@
 {
-  "homepage": "https://github.com/scorpidio11/memory-game",
+  "homepage": "https://github.com/scorpidio11/memory-game/",
   "name": "memory-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1" 
   },
   "scripts": {
     "start": "react-scripts start",
