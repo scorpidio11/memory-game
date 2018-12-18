@@ -1,0 +1,14 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  
+  background-image: url('https://i.pinimg.com/originals/88/a1/e4/88a1e48b76f0d56a4b4e06cb1ec50cbb.png');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
+
+
