@@ -1,3 +1,15 @@
+
+## Big Bang Memory Clicky Game with React
+
+
+
+Test your memory with Big Bang's Album images.
+
+Click on each image once to win the game. If you click the same image twice you lose!
+
+
+
+Application's UI is organized as components, manage component state, and respond to user events.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
